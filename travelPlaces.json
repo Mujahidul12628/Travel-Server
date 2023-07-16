@@ -1,34 +1,41 @@
 [
     {
-        "img": "image-url-1.jpg",
+        "img": "https://ibb.co/zbF10hK",
         "placeName": "Destination 1",
         "visitPrice": "$100",
         "travelDuration": "5 days",
         "userReviews": 4
     },
     {
-        "img": "image-url-2.jpg",
+        "img": "https://ibb.co/7n2rBZ6",
         "placeName": "Destination 2",
         "visitPrice": "$150",
         "travelDuration": "7 days",
         "userReviews": 4.5
     },
     {
-        "img": "image-url-3.jpg",
+        "img": "https://ibb.co/6FC5T68",
         "placeName": "Destination 3",
         "visitPrice": "$200",
         "travelDuration": "10 days",
         "userReviews": 5
     },
     {
-        "img": "image-url-4.jpg",
+        "img": "https://ibb.co/LzmsYMs",
         "placeName": "Destination 4",
         "visitPrice": "$80",
         "travelDuration": "3 days",
         "userReviews": 3.5
     },
     {
-        "img": "image-url-5.jpg",
+        "img": "https://ibb.co/7n2rBZ6",
+        "placeName": "Destination 5",
+        "visitPrice": "$120",
+        "travelDuration": "6 days",
+        "userReviews": 4.2
+    },
+    {
+        "img": "https://ibb.co/FhhhVQP",
         "placeName": "Destination 5",
         "visitPrice": "$120",
         "travelDuration": "6 days",
