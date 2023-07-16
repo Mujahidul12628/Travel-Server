@@ -1,0 +1,37 @@
+[
+    {
+        "img": "image-url-1.jpg",
+        "placeName": "Destination 1",
+        "visitPrice": "$100",
+        "travelDuration": "5 days",
+        "userReviews": 4
+    },
+    {
+        "img": "image-url-2.jpg",
+        "placeName": "Destination 2",
+        "visitPrice": "$150",
+        "travelDuration": "7 days",
+        "userReviews": 4.5
+    },
+    {
+        "img": "image-url-3.jpg",
+        "placeName": "Destination 3",
+        "visitPrice": "$200",
+        "travelDuration": "10 days",
+        "userReviews": 5
+    },
+    {
+        "img": "image-url-4.jpg",
+        "placeName": "Destination 4",
+        "visitPrice": "$80",
+        "travelDuration": "3 days",
+        "userReviews": 3.5
+    },
+    {
+        "img": "image-url-5.jpg",
+        "placeName": "Destination 5",
+        "visitPrice": "$120",
+        "travelDuration": "6 days",
+        "userReviews": 4.2
+    }
+]
