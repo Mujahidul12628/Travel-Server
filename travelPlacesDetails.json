@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+        "placeName": "Cox's Bazar",
+        "placeDescription": "Welcome to the largest Sea beach in the world",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "$180",
+        "travelDuration": "1 day",
+        "userReviews": 5
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+        "placeName": "Cox's Bazar",
+        "placeDescription": "Well come to the largest Sea beach in the world",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "$280",
+        "travelDuration": "3 days",
+        "userReviews": 4
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+        "placeName": "Cox's Bazar",
+        "placeDescription": "Well come to the largest Sea beach in the world",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "$380",
+        "travelDuration": "5 days",
+        "userReviews": 3.5
+    },
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+        "placeName": "Cox's Bazar",
+        "placeDescription": "Well come to the largest Sea beach in the world",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "$180",
+        "travelDuration": "1 days",
+        "userReviews": 5
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+        "placeName": "Cox's Bazar",
+        "placeDescription": "Well come to the largest Sea beach in the world",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "$280",
+        "travelDuration": "3 days",
+        "userReviews": 4
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+        "placeName": "Cox's Bazar",
+        "placeDescription": "Well come to the largest Sea beach in the world",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "$380",
+        "travelDuration": "5 days",
+        "userReviews": 3.5
+    }
+]
