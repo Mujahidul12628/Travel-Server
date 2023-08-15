@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "placeName": "Cabo Girao",
+        "placeCountry": "Portugal",
+        "visitingPrice": "$300",
+        "discountPrice": "$210",
+        "discount": "30%",
+        "rating": "5",
+        "placeImage": "https://i.ibb.co/ZxnhFs3/Cabo-Girao.jpg"
+    },
+    {
+        "id": 2,
+        "placeName": "Pyramid",
+        "placeCountry": "Egypt",
+        "visitingPrice": "$350",
+        "discountPrice": "$290",
+        "discount": "17%",
+        "placeImage": "https://i.ibb.co/zHGd8Hk/young-man-walking-towards-great-sphinx-giza.jpg"
+    },
+    {
+        "id": 3,
+        "placeName": "SwissAlps",
+        "placeCountry": "Sweden",
+        "visitingPrice": "$300",
+        "discountPrice": "$225",
+        "discount": "25%",
+        "placeImage": "https://i.ibb.co/m6C5mkz/Swiss-Alps.jpg"
+    },
+    {
+        "id": 4,
+        "placeName": "Great Wall",
+        "placeCountry": "China",
+        "visitingPrice": "$250",
+        "discountPrice": "$195",
+        "discount": "22%",
+        "placeImage": "https://i.ibb.co/QbRKs70/Great-Wall.jpg"
+    },
+    {
+        "id": 5,
+        "placeName": "Saint Martin",
+        "placeCountry": "Bangladesh",
+        "visitingPrice": "$300",
+        "discountPrice": "$210",
+        "discount": "30%",
+        "placeImage": "https://i.ibb.co/wRdGX87/Saint-Martin.jpg"
+    },
+    {
+        "id": 6,
+        "placeName": "Vinicunca",
+        "placeCountry": "Peru",
+        "visitingPrice": "$350",
+        "discountPrice": "$227",
+        "discount": "35%",
+        "placeImage": "https://i.ibb.co/L1dg7v9/Vinicunca.jpg"
+    },
+    {
+        "id": 7,
+        "placeName": "Petra",
+        "placeCountry": "Jordan",
+        "visitingPrice": "$370",
+        "discountPrice": "$284",
+        "discount": "23%",
+        "placeImage": "https://i.ibb.co/7vxdTdX/Petra.jpg"
+    },
+    {
+        "id": 8,
+        "placeName": "Khao Sok",
+        "placeCountry": "Thailand",
+        "visitingPrice": "$300",
+        "discountPrice": "$210",
+        "discount": "30%",
+        "placeImage": "https://i.ibb.co/mv8wL0x/Khaosok.jpg"
+    },
+    {
+        "id": 9,
+        "placeName": "Lake Louise",
+        "placeCountry": "Canada",
+        "visitingPrice": "$350",
+        "discountPrice": "$259",
+        "discount": "26%",
+        "placeImage": "https://i.ibb.co/TcdnT36/Lake-Louise.jpg"
+    },
+    {
+        "id": 10,
+        "placeName": "Sapa",
+        "placeCountry": "Vietnam",
+        "visitingPrice": "$288",
+        "discountPrice": "$195",
+        "discount": "32%",
+        "placeImage": "https://i.ibb.co/YpvKvm2/Sapa.jpg"
+    },
+    {
+        "id": 11,
+        "placeName": "Grand Canion",
+        "placeCountry": "America",
+        "visitingPrice": "$300",
+        "discountPrice": "$240",
+        "discount": "20%",
+        "placeImage": "https://i.ibb.co/PYtLSVY/1332264-popular-hd-grand-canyon-wallpapers-2560x1600-Custom.jpg"
+    },
+    {
+        "id": 12,
+        "placeName": "Santorini",
+        "placeCountry": "Greece",
+        "visitingPrice": "$250",
+        "discountPrice": "$200",
+        "discount": "20%",
+        "placeImage": "https://i.ibb.co/NSJ6y6S/Santorini.jpg"
+    },
+    {
+        "id": 13,
+        "placeName": "chureito pagoda",
+        "placeCountry": "Japan",
+        "visitingPrice": "$220",
+        "discountPrice": "$156",
+        "discount": "29%",
+        "placeImage": "https://i.ibb.co/PNQf55B/Chureito-pagoda.jpg"
+    },
+    {
+        "id": 14,
+        "placeName": "Machu Picchu",
+        "placeCountry": "Peru",
+        "visitingPrice": "$370",
+        "discountPrice": "$299",
+        "discount": "19%",
+        "placeImage": "https://i.ibb.co/1qV83fg/Machu-Picchu.jpg"
+    },
+    {
+        "id": 15,
+        "placeName": "Golden Gate",
+        "placeCountry": "America",
+        "visitingPrice": "$255",
+        "discountPrice": "$201",
+        "discount": "21%",
+        "placeImage": "https://i.ibb.co/ZzJTbbR/place5.jpg"
+    },
+    {
+        "id": 16,
+        "placeName": "Australia",
+        "placeCountry": "Australia",
+        "visitingPrice": "$288",
+        "discountPrice": "$232",
+        "discount": "20%",
+        "placeImage": "https://i.ibb.co/9nBfw5M/White-Heaven-2.jpg"
+    }
+]

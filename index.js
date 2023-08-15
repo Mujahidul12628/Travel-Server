@@ -8,6 +8,8 @@ app.use(cors());
 
 const travelPlaces = require("./travelPlaces.json");
 const travelPlacesDetails = require("./travelPlacesDetails.json");
+const place = require("./place.json");
+const reviews = require("./reviews.json");
 
 app.get('/', (req, res) => {
     res.send('Travel Server is running');
@@ -19,6 +21,13 @@ app.get('/travelPlaces', (req, res) => {
 
 app.get('/travelPlacesDetails', (req, res) => {
     res.send(travelPlacesDetails);
+});
+
+app.get('/place', (req, res) => {
+    res.send(place);
+});
+app.get('/reviews', (req, res) => {
+    res.send(reviews);
 });
 
 app.listen(port, () => {
