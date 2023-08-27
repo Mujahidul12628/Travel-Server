@@ -10,6 +10,7 @@ const travelPlaces = require("./travelPlaces.json");
 const travelPlacesDetails = require("./travelPlacesDetails.json");
 const place = require("./place.json");
 const reviews = require("./reviews.json");
+const blog = require("./blog.json");
 
 app.get('/', (req, res) => {
     res.send('Travel Server is running');
@@ -28,6 +29,9 @@ app.get('/place', (req, res) => {
 });
 app.get('/reviews', (req, res) => {
     res.send(reviews);
+});
+app.get('/blog', (req, res) => {
+    res.send(blog);
 });
 
 app.listen(port, () => {
