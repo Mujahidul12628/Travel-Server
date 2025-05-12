@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "img": "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
-        "placeName": "Cox's Bazar",
-        "placeDescription": "Welcome to the largest Sea beach in the world",
+        "img": "https://i.postimg.cc/LhFZkqKV/wallpaperflare-com-wallpaper.jpg",
+        "placeName": "Sundarban",
+        "placeDescription": "The largest mangrove forest and habitat of the Royal Bengal Tiger.",
         "detailedImages": [
             "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
@@ -12,32 +12,17 @@
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
             "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
         ],
-        "visitPrice": "$180",
-        "travelDuration": "1 day",
-        "userReviews": 5
-    },
-    {
-        "id": 2,
-        "img": "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
-        "placeName": "Sundor bon",
-        "placeDescription": "Well come to the largest Sea beach in the world",
-        "detailedImages": [
-            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
-            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
-            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
-            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
-            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
-            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
-        ],
-        "visitPrice": "$280",
-        "travelDuration": "3 days",
+        "visitPrice": "5600",
+        "travelDuration": "5 days",
         "userReviews": 4
     },
-    {
-        "id": 3,
-        "img": "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
-        "placeName": "Sada pathor",
-        "placeDescription": "Well come to the largest Sea beach in the world",
+    
+    
+     {
+        "id": 2,
+        "img": "https://i.postimg.cc/kXVBKqtB/1692609120861.jpg",
+        "placeName": "Sixty Dome Mosque",
+        "placeDescription": "The Sixty Dome Mosque, also known as the Shat Gombuj Mosque",
         "detailedImages": [
             "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
@@ -46,15 +31,31 @@
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
             "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
         ],
-        "visitPrice": "$380",
-        "travelDuration": "5 days",
-        "userReviews": 3.5
+        "visitPrice": "3500",
+        "travelDuration": "2 days",
+        "userReviews": 4
+    },{
+        "id": 3,
+        "img": "https://i.postimg.cc/mkYrs8JQ/ranghamati.jpg",
+        "placeName": "Rangamati ",
+        "placeDescription": " A tranquil hill town famous for Kaptai Lake, hanging bridges, and indigenous culture.",
+        "detailedImages": [
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
+            "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+            "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
+            "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
+        ],
+        "visitPrice": "5800",
+        "travelDuration": "4 days",
+        "userReviews": 5
     },
     {
         "id": 4,
-        "img": "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
+        "img": "https://i.postimg.cc/WbyyVTmw/coxs-bazar.jpg",
         "placeName": "Cox's Bazar",
-        "placeDescription": "Well come to the largest Sea beach in the world",
+        "placeDescription": "The longest sea beach in the world and great for watching sunsets.",
         "detailedImages": [
             "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
@@ -63,15 +64,16 @@
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
             "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
         ],
-        "visitPrice": "$180",
-        "travelDuration": "1 days",
-        "userReviews": 5
+        "visitPrice": "6500",
+        "travelDuration": "5 days",
+        "userReviews": 4
     },
+    
     {
-        "id": 2,
-        "img": "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
-        "placeName": "Cox's Bazar",
-        "placeDescription": "Well come to the largest Sea beach in the world",
+        "id": 5,
+        "img": "https://i.postimg.cc/cLwGG5PD/wallpaperflare-com-wallpaper-1.jpg",
+        "placeName": "Tanguar Haor",
+        "placeDescription": "Tanguar Haor is a wetland ecosystem in Sunamganj, known for its rich biodiversity and migratory birds.",
         "detailedImages": [
             "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
@@ -80,15 +82,15 @@
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
             "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
         ],
-        "visitPrice": "$280",
-        "travelDuration": "3 days",
+        "visitPrice": "5000",
+        "travelDuration": "5 days",
         "userReviews": 4
     },
     {
-        "id": 3,
-        "img": "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg",
-        "placeName": "Cox's Bazar",
-        "placeDescription": "Well come to the largest Sea beach in the world",
+        "id": 6,
+        "img": "https://i.postimg.cc/RFwp8fJ8/wallpaperflare-com-wallpaper-2.jpg",
+        "placeName": "Srimangal",
+        "placeDescription": "Known as the Tea Capital of Bangladesh with beautiful gardens and seven-layer tea.",
         "detailedImages": [
             "https://i.ibb.co/S0c29Xq/pietro-de-grandi-T7-K4a-EPo-GGk-unsplash.jpg",
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
@@ -97,8 +99,8 @@
             "https://i.ibb.co/1r8RBPw/spencer-davis-ONVA6s03hg8-unsplash.jpg",
             "https://i.ibb.co/KNw7ZzT/jamie-fenn-Wd-Qu-EEJe-O0-unsplash.jpg"
         ],
-        "visitPrice": "$380",
-        "travelDuration": "5 days",
-        "userReviews": 3.5
+        "visitPrice": "4200",
+        "travelDuration": "3 days",
+        "userReviews": 4
     }
 ]
